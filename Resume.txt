@@ -1,0 +1,81 @@
+VRUSHANK BADLE
+ AI and ML Student
+
+ PERSONAL PROFILE
+ Vrushank is a third year AI and ML student, with strong passion
+ in exploring new concepts in the rapidly evolving
+ field of AI, particularly its applications in robotics, nlp
+ and computer vision. The ultimate goal is creating a
+ humanoid robot like Sophia. Hobbies include
+ python programming, sudoku, watching informative
+ videos on youtube, and learning new skills such as
+ webapp development and ethical hacking.
+
+ CONTACT DETAILS
+ Email ID : vrushank0504@gmail.com
+ Location: Mumbai, India
+ LinkedIn : linkedin.com/in/vrushankbadle
+ Github : github.com/vrushankbadle
+
+ SKILLS AND ABILITIES
+ Adaptability and Flexibility
+ Problem solving
+ Critical thinking
+
+ SOFTWARE/TOOLS
+ Python Programming
+ SQL
+ Microsoft excel
+ Web Development using JS, CSS and HTML
+ REST API Development using Express.js and Flask
+ Handling HTTP requests
+
+ CERTIFICATION/COURSES
+ The Complete Python Bootcamp (Udemy)
+ Machine Learning A-Z (Udemy)
+ Deep Learning A-Z (Udemy)
+ Introduction to LLMS (Coursera)
+
+ CO-CURRICULAR ACTIVITIES
+ UGDx Esports | Player (December 2023 - Present )
+ Valorant player for UGDx Esports in university.
+ Played in two tournaments.
+
+ PROJECTS
+ Chatbot Webapp ( June 2024 )
+ A webapp using Flask, for a Chatbot
+ Authenticate users and store their credentials in a local
+ database using Flask SQLAlchemy.
+ Create REST API for the chatbot to communicate with the
+ webapp.
+ Machine Learning Chatbot with voice capabilities ( April 2024 )
+ A real-time conversational chatbot using neural networks.
+ Process text data from json format into vector format. 
+Create chatbot that uses neural networks to analyse text and
+ reply with a predefined response.
+ Use Google’s stt model through speech_recognition library, and
+ python’s pyttsx3 library for real-time voice conversation.
+ Chatbot using Google Cloud API and OpenAI API ( March 2024 )
+ A real-time conversational chatbot using Google Cloud API and
+ OpenAI API.
+ Use OpenAI’s gpt 3.5-turbo model using OpenAI API.
+ Use Google’s TTS model through Google Cloud API and play the
+ generated audio file.
+ Use threading technique to minimize delay from audio
+ generation to playing.
+
+ ACADEMIC PROFILE
+ DURATION
+ JULY’22 - JUNE’26
+ Atlas Skilltech University
+ BSc (Hons). AI and ML
+ PACE Juniour Science College
+ High School with PCM
+ DURATION
+ JULY’20 - JUNE’22
+
+ INTERNSHIP EXPERIENCE
+ Machine Learning Intern
+ Data cleaning, analysis and applying machine learning
+ algorithms on 4 datasets. 
+ Digirise Infolabs  |  April 2023
